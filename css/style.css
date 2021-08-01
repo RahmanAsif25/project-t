@@ -14,7 +14,9 @@ header{
 	background-color: black;
 }
 .c_nav{}
-.logo{}
+.logo{
+	width: 170px;
+}
 .menu{}
 .menu ul li a{
 	font-family: 'Open Sans', sans-serif;
